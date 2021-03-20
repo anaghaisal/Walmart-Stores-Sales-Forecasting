@@ -4,7 +4,3 @@ For this project, we have used the dataset available from ‘Walmart Store Sales
 
 In this project, we conducted multiple linear regression to predict the future sales. There were several different factors that we analyzed in our regression model starting with a full model with all the variables and then moving towards a reduced model by eliminating insignificant variables. We used several different exploratory analyses to identify the key variables for our regression equation such as correlation plots, heatmaps, histograms etc.
 
-The key issues that we have faced in this analysis is the large dataset that resulted into several computational challenges because of which we had to modify our approach in addressing the problem. We also faced significant challenges in identifying the right variables on which the analysis could be conducted.
-
-Few other time series forecasting models could have been used as the weekly sales is highly dependent on the past year. Moreover, ARIMA modelling techniques like exponential smoothening and holt winters could have helped us capture the seasonality in the model in a better way. Furthermore, ARIMAX model would have enabled us to have an accurate time series model based on previous weeks of data as well as factor in few important variables like holiday and department type to get an even better accuracy.
-
